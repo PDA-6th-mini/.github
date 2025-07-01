@@ -63,8 +63,11 @@
   </tr>
 </table>
 
-# 아키텍처 구성
-![아키텍처](./images/architecture.png)
+# 화면 흐름 및 아키텍처 구성
+| 화면 흐름     | 아키텍처                      |
+| :----------- | :--------------------------------- |
+| ![순서도](./images/sub_flowchart.png) | ![아키텍처](./images/architecture.png) |
+
 
 ## 데스크톱 및 모바일 화면
 
